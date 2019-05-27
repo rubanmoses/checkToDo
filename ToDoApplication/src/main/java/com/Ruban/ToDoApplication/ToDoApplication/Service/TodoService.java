@@ -349,7 +349,7 @@ public class TodoService {
 	}
 	public void deleteAssignment(TaskAssignment task)
 	{
-		taskAssignment.delete(task);
+//		taskAssignment.delete(task);
 	}
 	public List<Users> allAvilableUsers()
 	{
